@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript artifacts
+*.tsbuildinfo
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Mac system files
+.DS_Store
+
+# IDE or editor configurations
+.vscode/
+.idea/
+
+# NPM package lock file
+package-lock.json
+
+# Optional: Ignore compiled JavaScript files if you only want to keep TypeScript
+*.js
